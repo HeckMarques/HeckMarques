@@ -1,4 +1,4 @@
-## 🖐️ Bem-vindo! Sou Maurício, Desenvolvedor Full Stack
+## 🖐️ Bem-vindo! Sou Maurício, Desenvolvedor Full Stack 👨‍💻
 
 Resolvo problemas de todos os tamanhos utilizando diversas tecnologias disponíveis. Meu foco é encontrar soluções simples, rápidas e eficientes, com ênfase na qualidade em cada projeto, independentemente do seu porte.
 
@@ -24,18 +24,18 @@ Conheça minha trajetoria profissional:<br/>
 </div><br/>
 
 ### Que tipo de problemas eu posso resolver?
-- Integração de dados:
+- 🗃️ Integração de dados:
   - Ex 1: Copiar dados a cada 30 minutos do Google Sheets para um banco de dados.
   - Ex 2: Atualizar dados diariamente às 05h de uma API de clima e salvá-los no banco de dados.
   - Ex 3: Criar API para interagir com dados de um banco específico...
   - Ex 4: Replicar dados agendados de um banco relacional para um especializado em Big Data.
   - Ex 5: Agendar a cópia de dados de plataformas de marketing (Google ADS...) para um banco de dados.
  
-- Bussines Inteligence(BI):
+- 📊 Bussines Inteligence(BI):
   - Ex 1: Desenvolver um Dashboard em tempo real com indicadores gráficos e filtros personalizáveis usando dados do banco.
   - Ex 2: Criar dashboards restritos por usuário, cada um visualizando informações de sua competência.
  
-- Desenvolvimento:
+- 📱 Desenvolvimento:
   - Ex 1: Criar um aplicativo web/mobile multiplataforma com dashboards indicadores em tempo real, com sistema de login e restrição por usuário.
 
 Posso integrar todas essas habilidades para oferecer soluções completas, desde a configuração em nuvem até o desenvolvimento e entrega de aplicações prontas para uso na nuvem do cliente ou na minha (com taxa mensal para atualizações e correções).
