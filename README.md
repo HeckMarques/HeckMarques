@@ -39,7 +39,7 @@ Conheça minha trajetoria profissional:<br/>
 - 📱 Desenvolvimento:
   - Ex 1: Criar um aplicativo web/mobile multiplataforma com dashboards indicadores em tempo real, com sistema de login e restrição por usuário.
 
-Posso integrar todas essas habilidades para oferecer soluções completas, desde a configuração em nuvem até o desenvolvimento e entrega de aplicações prontas para uso na nuvem do cliente ou na minha (com taxa mensal para atualizações e correções).
+Posso integrar todas essas habilidades para oferecer soluções completas, desde a configuração em nuvem até o desenvolvimento e entrega de aplicações prontas.
 
 
 
