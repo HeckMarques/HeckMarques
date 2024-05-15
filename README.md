@@ -1,6 +1,6 @@
 ## Seja bem vindo! me chamo Maurício e sou Desenvolvedor de Software.
 
-Resolvo problemas tilizando diversas tecnologias. Meu foco é encontrar soluções simples, rápidas e eficientes, com ênfase na qualidade em cada projeto.
+Resolvo problemas utilizando diversas tecnologias. Meu foco é encontrar soluções simples, rápidas e eficientes, com ênfase na qualidade em cada projeto.
 
 Com 27 anos e formação em Sistemas de Informação desde 2021, concentro-me no desenvolvimento, adotando uma visão holística das tecnologias. Isso me permite resolver problemas de forma ágil, combinando ferramentas e tecnologias de maneira eficaz.
 
