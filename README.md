@@ -1,8 +1,8 @@
-## 🖐️ Bem-vindo! Sou Maurício, Desenvolvedor Full Stack 👨‍💻
+## Seja bem vindo! me chamo Maurício e sou Desenvolvedor de Software.
 
-Resolvo problemas de todos os tamanhos utilizando diversas tecnologias disponíveis. Meu foco é encontrar soluções simples, rápidas e eficientes, com ênfase na qualidade em cada projeto, independentemente do seu porte.
+Resolvo problemas tilizando diversas tecnologias. Meu foco é encontrar soluções simples, rápidas e eficientes, com ênfase na qualidade em cada projeto.
 
-Com 27 anos e formação em Sistemas de Informação desde 2021, concentro-me no desenvolvimento e análise de dados, adotando uma visão holística das tecnologias. Isso me permite resolver problemas de forma ágil, combinando ferramentas e tecnologias de maneira eficaz.
+Com 27 anos e formação em Sistemas de Informação desde 2021, concentro-me no desenvolvimento, adotando uma visão holística das tecnologias. Isso me permite resolver problemas de forma ágil, combinando ferramentas e tecnologias de maneira eficaz.
 
 Conheça minha trajetoria profissional:<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/mauricioheckmarques)
@@ -24,20 +24,16 @@ Conheça minha trajetoria profissional:<br/>
   <img align="center" alt="GITHUB" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
-### Que tipo de problemas eu posso resolver?
-- 🗃️ Integração de dados:
-  - Ex 1: Copiar dados a cada 30 minutos do Google Sheets para um banco de dados.
-  - Ex 2: Atualizar dados diariamente às 05h de uma API de clima e salvá-los no banco de dados.
-  - Ex 3: Criar API para interagir com dados de um banco específico...
-  - Ex 4: Replicar dados agendados de um banco relacional para um especializado em Big Data.
-  - Ex 5: Agendar a cópia de dados de plataformas de marketing (Google ADS...) para um banco de dados.
- 
+### Que tipo de problemas eu posso resolver? 
 - 📊 Bussines Inteligence(BI):
-  - Ex 1: Desenvolver um Dashboard em tempo real com indicadores gráficos e filtros personalizáveis usando dados do banco.
-  - Ex 2: Criar dashboards restritos por usuário, cada um visualizando informações de sua competência.
+  - Ex 1: Configurar e disponibilizar ferramentas de BI em nuvem para analistas de negocios e dados poderem utilizar gratuitamente.
  
 - 📱 Desenvolvimento:
-  - Ex 1: Criar um aplicativo web/mobile multiplataforma com dashboards indicadores em tempo real, com sistema de login e restrição por usuário.
+  - Ex 1: Criar aplicativos web ou mobile multiplataforma(ios/android/windows).
+  - Ex 2: Criar APIs para comuninação entre sistemas e banco de dados.
+  - Ex 3: Criar Scripts de automatização.
+  - Ex 4: Criar Robos de automação de sistemas (RPAs).
+    Ex 5: Criar ChatBots de auto atendimento para WhatsApp e/ou Web.
 
 Posso integrar todas essas habilidades para oferecer soluções completas, desde a configuração em nuvem até o desenvolvimento e entrega de aplicações prontas.
 
