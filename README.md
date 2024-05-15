@@ -31,9 +31,9 @@ Conheça minha trajetoria profissional:<br/>
 - 📱 Desenvolvimento:
   - Ex 1: Criar aplicativos web ou mobile multiplataforma(ios/android/windows).
   - Ex 2: Criar APIs para comuninação entre sistemas e banco de dados.
-  - Ex 3: Criar Scripts de automatização.
+  - Ex 3: Criar Scripts de automação.
   - Ex 4: Criar Robos de automação de sistemas (RPAs).
-    Ex 5: Criar ChatBots de auto atendimento para WhatsApp e/ou Web.
+  - Ex 5: Criar ChatBots de auto atendimento para WhatsApp e/ou Web.
 
 Posso integrar todas essas habilidades para oferecer soluções completas, desde a configuração em nuvem até o desenvolvimento e entrega de aplicações prontas.
 
